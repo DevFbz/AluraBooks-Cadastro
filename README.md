@@ -12,7 +12,7 @@
 
 Este projeto foi criado para colocar em prática o consumo de **APIs REST** utilizando **JavaScript moderno (ES6+)**.  
 Durante o desenvolvimento, foram aplicados conceitos fundamentais como:
-Acesse: https://devfbz.github.io/AluraBooks-Cadastro/
+## Acesse: https://devfbz.github.io/AluraBooks-Cadastro/
 
 - 🔄 Requisições **HTTP** com `fetch()`  
 - 📦 Manipulação de **JSON**  
